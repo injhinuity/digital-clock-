@@ -1,2 +1,2 @@
 # digital-clock-
-practice
+practice clock project.
